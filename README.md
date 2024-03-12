@@ -5,8 +5,6 @@ ONLY FOR LINUX!!!!
 # Dependencies
 FFMpeg (any version is fine)
 
-yt-dlp
-
 Bash
 
 # Instructions
